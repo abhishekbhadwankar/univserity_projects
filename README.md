@@ -1,0 +1,1 @@
+These are list University Project that were completed while doing my Masters in Data Sceience at UWE University.
